@@ -1,0 +1,36 @@
+.menu {
+  
+display:-ms-grid;
+justify-content: center;
+
+  background-color: black;
+  font-size: 50px;
+  
+  font-family: Georgia;
+ 
+  color: white;
+}
+body {
+  background-color:#F7AD95;
+}
+.grid {
+ flex:inherit;
+ display:inline-table;
+justify-content:center;
+  font-family: Brush Script MT;
+  font-size: 30px;
+}
+
+.grid img {
+  
+  border: 2px solid black;
+  border-radius: 50px;
+}
+.origami {
+  border-radius: 20px;
+  background-color:burlywood;
+  margin: 20px;
+
+  width: 310px;
+  font-family: Franklin Gothic  ;
+}
